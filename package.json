@@ -1,0 +1,26 @@
+{
+  "name": "puppeteer-mvp-scraper",
+  "version": "0.1.0",
+  "description": "web scraping using puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolandolucio/casperjs-mvp-scraper.git"
+  },
+  "keywords": [
+    "scraper",
+    "puppeteer"
+  ],
+  "author": "Rolando Lucio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rolandolucio/casperjs-mvp-scraper/issues"
+  },
+  "homepage": "https://github.com/rolandolucio/casperjs-mvp-scraper#readme",
+  "dependencies": {
+    "puppeteer": "^1.16.0"
+  }
+}
