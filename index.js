@@ -13,4 +13,4 @@ scraper.scrap({site, value:22000172,capture:true})
   });
 
 
-  //[scrap.parse.1,..promiseN]
+  //[scrap.parse.1,..promiseN] 
