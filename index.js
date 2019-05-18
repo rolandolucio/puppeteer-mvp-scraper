@@ -2,8 +2,9 @@
 
 const scraper = require('./src/app/scraper');
 
-
-scraper.scrap({site:process.env.APP_SITE, value:22000172,capture:true})
+const site = process.env.APP_SITE;
+console.log('scrap',site);
+scraper.scrap({site, value:22000172,capture:true})
   .then(console.log)
   .catch(x=>{
     console.log('errror<<<<<<<<<<');
