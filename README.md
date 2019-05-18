@@ -8,4 +8,5 @@ https://github.com/rolandolucio/casperjs-mvp-scraper
 
 References
 https://developers.google.com/web/tools/puppeteer/
+
 https://try-puppeteer.appspot.com/
